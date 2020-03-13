@@ -14,7 +14,7 @@ class Landing extends Component {
                         className="avatar-img"
                         />
                         <div className="banner-text">
-                            <h1>Full Stack Developer</h1>
+                            <h1>I Like to Build Things</h1>
 
                             <hr/>
                             <p>Swift | Javascript | Adobe Cloud | React Native | Node.js</p>
