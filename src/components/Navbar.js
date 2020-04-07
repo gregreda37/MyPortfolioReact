@@ -11,7 +11,7 @@ class Navbar extends Component {
     }
     render() {
         return (
-            <Drawer className="header-color" title={<Link style={{textDecoration:'none', color:'black'}} to="/"onClick={() => this.hideToggle()}>Greg's Portfolio</Link>}>
+            <Drawer className="navbar-color" title={<Link style={{textDecoration:'none', color:'black'}} to="/"onClick={() => this.hideToggle()}>Greg's Portfolio</Link>}>
             <Navigation>
                 <Link to="/projects"  onClick={() => this.hideToggle()} >Projects</Link>
                 <Link to="/resume"  onClick={() => this.hideToggle()} >Resume</Link>
