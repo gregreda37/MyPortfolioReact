@@ -99,14 +99,14 @@ class Projects extends Component {
                         
                             <div className= "button-color">
                             <i className="fa fa-github-square"  aria-hidden="true"/>
-                            <a href="https://github.com/gregreda37/ToolClassifierApp" rel="noopener noreferrer" target="_blank">GitHub</a>
+                            <a href="https://github.com/gregreda37/BoxStacker" rel="noopener noreferrer" target="_blank">GitHub</a>
                             
                             </div>
                         </Button>
                         <Button>
                         <div className= "button-color">
                             <i className="fa fa-apple"  aria-hidden="true"/>
-                            <a href="https://apps.apple.com/us/app/tool-classifier/id1486603456" rel="noopener noreferrer" target="_blank">App Store</a>
+                            <a href="https://apps.apple.com/us/app/box-stacker-pro/id1491111200" rel="noopener noreferrer" target="_blank">App Store</a>
                             </div>
                         </Button>
                         
@@ -216,7 +216,7 @@ class Projects extends Component {
                         
                             <div className= "button-color">
                             <i className="fa fa-google"  aria-hidden="true"/>
-                            <a href="https://ukrainianrestoration.com/portfolio" rel="noopener noreferrer" target="_blank">Gallary</a>
+                            <a href="https://ukrainianrestoration.com/portfolio" rel="noopener noreferrer" target="_blank">Gallery</a>
                             
                             </div>
                         </Button>
@@ -240,7 +240,7 @@ class Projects extends Component {
                         
                             <div className= "button-color">
                             <i className="fa fa-google"  aria-hidden="true"/>
-                            <a href="https://ukrainianrestoration.com/portfolio" rel="noopener noreferrer" target="_blank">Gallary</a>
+                            <a href="https://ukrainianrestoration.com/portfolio" rel="noopener noreferrer" target="_blank">Gallery</a>
                             
                             </div>
                         </Button>
@@ -264,7 +264,7 @@ class Projects extends Component {
                         
                             <div className= "button-color">
                             <i className="fa fa-google"  aria-hidden="true"/>
-                            <a href="https://ukrainianrestoration.com/portfolio" rel="noopener noreferrer" target="_blank">Gallary</a>
+                            <a href="https://ukrainianrestoration.com/portfolio" rel="noopener noreferrer" target="_blank">Gallery</a>
                             
                             </div>
                         </Button>
@@ -296,7 +296,7 @@ class Projects extends Component {
                         
                             <div className= "button-color">
                             <i className="fa fa-google"  aria-hidden="true"/>
-                            <a href="https://ukrainianrestoration.com/16-tiny-house#23994441-049c-4ea6-b9d8-3264a21e723a" rel="noopener noreferrer" target="_blank">Gallary</a>
+                            <a href="https://ukrainianrestoration.com/16-tiny-house#23994441-049c-4ea6-b9d8-3264a21e723a" rel="noopener noreferrer" target="_blank">Gallery</a>
                             
                             </div>
                         </Button>
@@ -320,7 +320,7 @@ class Projects extends Component {
                         
                             <div className= "button-color">
                             <i className="fa fa-google"  aria-hidden="true"/>
-                            <a href="https://ukrainianrestoration.com/20-tiny-house#04da575f-9444-4ca4-b91e-6101e7c09126" rel="noopener noreferrer" target="_blank">Gallary</a>
+                            <a href="https://ukrainianrestoration.com/20-tiny-house#04da575f-9444-4ca4-b91e-6101e7c09126" rel="noopener noreferrer" target="_blank">Gallery</a>
                             
                             </div>
                         </Button>
@@ -345,7 +345,7 @@ class Projects extends Component {
                         
                             <div className= "button-color">
                             <i className="fa fa-google"  aria-hidden="true"/>
-                            <a href="https://ukrainianrestoration.com/24-tiny-house#41309f9e-a99b-4790-8d76-f8a24a98577d" rel="noopener noreferrer" target="_blank">Gallary</a>
+                            <a href="https://ukrainianrestoration.com/24-tiny-house#41309f9e-a99b-4790-8d76-f8a24a98577d" rel="noopener noreferrer" target="_blank">Gallery</a>
                             
                             </div>
                         </Button>
