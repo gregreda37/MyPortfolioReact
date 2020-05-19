@@ -26,7 +26,7 @@ class Projects extends Component {
 
                 <Card shadow={5} style={{minWidth:'450', margin:'auto'}}>
                     <CardTitle style={{color:'black', height:'275px', background: "url(" + TopboxLogo + ") center / cover"}}>
-                        <h1 className="project-background">Topbox Inc.</h1>
+                        <h1 className="project-background">Zach Inc.</h1>
                     </CardTitle>
                     <CardText>
                     Integrated Google Maps SDK for IOS; rest API to send JSON response using queries; 
