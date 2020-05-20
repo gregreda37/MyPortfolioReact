@@ -1,17 +1,17 @@
 import React, {Component} from 'react';
 import {Tabs, Tab, Grid, Cell, Card, CardTitle, CardActions, CardMenu, Button, IconButton,CardText} from 'react-mdl';
-import TopboxLogo from './topboxLogo.png';
-import toolClassifierLogo from './toolClassifierLogo.png';
-import boxStackerLogo from './boxStackerPro.png';
-import merchandiseLogo from './merchandiseLogo.png';
-import carpentryPhoto from './carpentryPhoto.jpg';
-import sixteenTinyHome from './sixteenTinyHome.jpg';
-import twentyTinyHome from './twentyTinyHome.jpeg';
-import twentyfourTinyHome from './twentyfourTinyHome.jpg';
-import staircase from './staircase.jpg'
-import garden from './garden.jpg'
-import reactLogo from './reactLogo.png'
-import JoinScreen from './JoinScreen.jpg'
+import TopboxLogo from './Photos/topboxLogo.png';
+import toolClassifierLogo from './Photos/toolClassifierLogo.png';
+import boxStackerLogo from './Photos/boxStackerPro.png';
+import merchandiseLogo from './Photos/merchandiseLogo.png';
+import carpentryPhoto from './Photos/carpentryPhoto.jpg';
+import sixteenTinyHome from './Photos/sixteenTinyHome.jpg';
+import twentyTinyHome from './Photos/twentyTinyHome.jpeg';
+import twentyfourTinyHome from './Photos/twentyfourTinyHome.jpg';
+import staircase from './Photos/staircase.jpg'
+import garden from './Photos/garden.jpg'
+import reactLogo from './Photos/reactLogo.png'
+import JoinScreen from './Photos/JoinScreen.jpg'
 
 class Projects extends Component {
     constructor(props){
@@ -26,7 +26,7 @@ class Projects extends Component {
 
                 <Card shadow={5} style={{minWidth:'450', margin:'auto'}}>
                     <CardTitle style={{color:'black', height:'275px', background: "url(" + TopboxLogo + ") center / cover"}}>
-                        <h1 className="project-background">Zach Inc.</h1>
+                        <h1 className="project-background">Topbox Inc.</h1>
                     </CardTitle>
                     <CardText>
                     Integrated Google Maps SDK for IOS; rest API to send JSON response using queries; 
@@ -370,7 +370,7 @@ class Projects extends Component {
             <div className="category-tabs">
                 <Tabs activeTab={this.state.activeTab} onChange={(tabId)=> this.setState({activeTab: tabId})} ripple>
                     <Tab>Swift</Tab>
-                    <Tab>Android</Tab>
+                    <Tab>Cross-Platform</Tab>
                     <Tab>Web</Tab>
                     <Tab>Carpentry</Tab>
                     <Tab>Tiny Homes</Tab>
