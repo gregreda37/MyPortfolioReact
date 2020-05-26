@@ -4,6 +4,7 @@ import Projects from './Projects';
 import Contact from './Contact';
 import Resume from './Resume';
 import GISPortfolio from './GIS'
+import Mapview from './ArcGIS/Mapview'
 
 import {Switch,Route} from 'react-router-dom';
 
@@ -14,6 +15,7 @@ const Main = () => (
         <Route path = "/contact" component ={Contact} />
         <Route path = "/resume" component ={Resume} />
         <Route path = "/GIS" component = {GISPortfolio} />
+        <Route path = "/Mapview" component = {Mapview} />
     </Switch>
 
 )

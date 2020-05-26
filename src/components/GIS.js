@@ -3,6 +3,8 @@ import {Grid, Cell} from 'react-mdl';
 import Assignment1 from './Photos/Assignment1.png';
 import Assignment2 from './Photos/Assignment2.png';
 import Assignment3 from './Photos/Assignment3.png';
+import Assignment4 from './Photos/Assignment4.png';
+import Assignment5 from './Photos/Assignment5.png';
 
 class GISPortfolio extends Component {
     render(){
@@ -22,6 +24,16 @@ class GISPortfolio extends Component {
                         />
                         <img
                         src={Assignment3}
+                        alt="Myface"
+                        className="gis-photo"
+                        />
+                        <img
+                        src={Assignment4}
+                        alt="Myface"
+                        className="gis-photo"
+                        />
+                        <img
+                        src={Assignment5}
                         alt="Myface"
                         className="gis-photo"
                         />
