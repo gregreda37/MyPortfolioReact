@@ -5,6 +5,7 @@ import Assignment2 from './Photos/Assignment2.png';
 import Assignment3 from './Photos/Assignment3.png';
 import Assignment4 from './Photos/Assignment4.png';
 import Assignment5 from './Photos/Assignment5.png';
+import MapView from './ArcGIS/Mapview'
 
 class GISPortfolio extends Component {
     render(){
@@ -39,6 +40,7 @@ class GISPortfolio extends Component {
                         />
                     </Cell>
                 </Grid>
+                <MapView/>
             </div>
         )
     }
