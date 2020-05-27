@@ -1,10 +1,13 @@
 import React, {Component} from 'react';
 import {Grid, Cell} from 'react-mdl';
-import Assignment1 from './Photos/Assignment1.png';
-import Assignment2 from './Photos/Assignment2.png';
-import Assignment3 from './Photos/Assignment3.png';
-import Assignment4 from './Photos/Assignment4.png';
-import Assignment5 from './Photos/Assignment5.png';
+import Assignment1 from './Photos/GIS/Assignment1.png';
+import Assignment2 from './Photos/GIS/Assignment2.png';
+import Assignment3 from './Photos/GIS/Assignment3.png';
+import Assignment4 from './Photos/GIS/Assignment4.png';
+import Assignment5 from './Photos/GIS/Assignment5.png';
+import Assignment6EC from './Photos/GIS/Assignment6EC.png';
+import Assignment7 from './Photos/GIS/Assignment7.png';
+import Assignment8 from './Photos/GIS/Assignment8.png';
 import MapView from './ArcGIS/Mapview'
 
 class GISPortfolio extends Component {
@@ -38,9 +41,25 @@ class GISPortfolio extends Component {
                         alt="Myface"
                         className="gis-photo"
                         />
+                        <img
+                        src={Assignment6EC}
+                        alt="Myface"
+                        className="gis-photo"
+                        />
+                        <img
+                        src={Assignment7}
+                        alt="Myface"
+                        className="gis-photo"
+                        />
+                        <img
+                        src={Assignment8}
+                        alt="Myface"
+                        className="gis-photo"
+                        />
                     </Cell>
                 </Grid>
                 <MapView/>
+    
             </div>
         )
     }

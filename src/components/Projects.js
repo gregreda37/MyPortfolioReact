@@ -12,6 +12,8 @@ import staircase from './Photos/staircase.jpg'
 import garden from './Photos/garden.jpg'
 import reactLogo from './Photos/reactLogo.png'
 import JoinScreen from './Photos/JoinScreen.jpg'
+import Assignment8 from './Photos/GIS/Assignment8.png';
+import {Link} from 'react-router-dom';
 
 class Projects extends Component {
     constructor(props){
@@ -361,6 +363,38 @@ class Projects extends Component {
             
         )
 
+    } else {
+        return(
+            <div className="projects-grid">
+            <Card shadow={5} style={{minWidth:'450', margin:'auto'}}>
+                    <CardTitle style={{color:'black', height:'275px', background: "url(" + Assignment8 + ") center / cover"}}>
+                        <h1 className="project-background">Geographic Information System</h1>
+                    </CardTitle>
+                    <CardText>
+                    Geographic Information Systems (GIS): a combination of the hardware, software, and community involved in the 
+                    collection, distribution, visualization, and analysis of spatial data. The concepts and theories that underpin 
+                    GIS are often referred to as Geographic Information Science, and the course surveys this groundwork.
+                    </CardText>
+                    <CardActions  border>
+                        <Button>
+                        
+                            <div className= "button-color">
+                            <i className="fas fa-air-freshener"  aria-hidden="true"/>
+                            <a href="https://gregreda1.com/#/GIS">Projects</a>
+                            
+                            </div>
+                        </Button>
+                        
+                    </CardActions>
+
+                    <CardMenu style={{color:'#fff'}}>
+                        <IconButton name="share"/>
+                    </CardMenu>
+                </Card>
+            </div>
+            
+        )
+
     }
 
     }
@@ -374,9 +408,8 @@ class Projects extends Component {
                     <Tab>Web</Tab>
                     <Tab>Carpentry</Tab>
                     <Tab>Tiny Homes</Tab>
+                    <Tab>Data Science</Tab>
                 </Tabs>
-
-                
                 <Grid>
                     <Cell col={12}>
                         <div className="content>">{this.toggleCategories()}</div>
