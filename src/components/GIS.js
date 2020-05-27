@@ -58,7 +58,7 @@ class GISPortfolio extends Component {
                         alt="Myface"
                         className="gis-photo"
                         />
-                        <h1 style={{color:'white',fontSize:'24px',width:'300px'}}>Assignment Eigth</h1>
+                        <h1 style={{color:'white',fontSize:'24px',width:'200px'}}>Assignment Eight</h1>
                         <img
                         src={Assignment8}
                         alt="Myface"
