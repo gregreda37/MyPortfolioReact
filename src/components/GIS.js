@@ -16,49 +16,59 @@ class GISPortfolio extends Component {
             <div style ={{width: '100%', margin: 'auto'}}>
                 <Grid className = "project-background-gradient">
                     <Cell col={1}>
+                        <h1 style={{color:'white',fontSize:'24px',width:'200px'}}>Assignment One</h1>
                         <img
                         src={Assignment1}
                         alt="Myface"
                         className="gis-photo"
                         />
+                        <h1 style={{color:'white',fontSize:'24px',width:'200px'}}>Assignment Two</h1>
                         <img
                         src={Assignment2}
                         alt="Myface"
                         className="gis-photo"
                         />
+                        <h1 style={{color:'white',fontSize:'24px',width:'200px'}}>Assignment Three</h1>
                         <img
                         src={Assignment3}
                         alt="Myface"
                         className="gis-photo"
                         />
+                        <h1 style={{color:'white',fontSize:'24px',width:'200px'}}>Assignment Four</h1>
                         <img
                         src={Assignment4}
                         alt="Myface"
                         className="gis-photo"
                         />
+                        <h1 style={{color:'white',fontSize:'24px',width:'200px'}}>Assignment Five</h1>
                         <img
                         src={Assignment5}
                         alt="Myface"
                         className="gis-photo"
                         />
+                        <h1 style={{color:'white',fontSize:'24px',width:'200px'}}>Assignment Six</h1>
                         <img
                         src={Assignment6EC}
                         alt="Myface"
                         className="gis-photo"
                         />
+                        <h1 style={{color:'white',fontSize:'24px',width:'200px'}}>Assignment Seven</h1>
                         <img
                         src={Assignment7}
                         alt="Myface"
                         className="gis-photo"
                         />
+                        <h1 style={{color:'white',fontSize:'24px',width:'200px'}}>Assignment Eigth</h1>
                         <img
                         src={Assignment8}
                         alt="Myface"
                         className="gis-photo"
                         />
                     </Cell>
+            
                 </Grid>
                 <MapView/>
+                
     
             </div>
         )
