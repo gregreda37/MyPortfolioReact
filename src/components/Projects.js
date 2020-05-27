@@ -12,7 +12,7 @@ import staircase from './Photos/staircase.jpg'
 import garden from './Photos/garden.jpg'
 import reactLogo from './Photos/reactLogo.png'
 import JoinScreen from './Photos/JoinScreen.jpg'
-import Assignment8 from './Photos/GIS/Assignment8.png';
+import Assignment8 from './Photos/GIS/Assingment8_NoLedger.png';
 import {Link} from 'react-router-dom';
 
 class Projects extends Component {
@@ -368,7 +368,7 @@ class Projects extends Component {
             <div className="projects-grid">
             <Card shadow={5} style={{minWidth:'450', margin:'auto'}}>
                     <CardTitle style={{color:'black', height:'275px', background: "url(" + Assignment8 + ") center / cover"}}>
-                        <h1 className="project-background">Geographic Information System</h1>
+                        <h1 className="project-background">G.I.S.</h1>
                     </CardTitle>
                     <CardText>
                     Geographic Information Systems (GIS): a combination of the hardware, software, and community involved in the 
@@ -379,7 +379,7 @@ class Projects extends Component {
                         <Button>
                         
                             <div className= "button-color">
-                            <i className="fas fa-air-freshener"  aria-hidden="true"/>
+                            <i className="fa fa-tree"  aria-hidden="true"/>
                             <a href="https://gregreda1.com/#/GIS">Projects</a>
                             
                             </div>
