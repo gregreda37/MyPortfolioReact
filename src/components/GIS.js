@@ -65,19 +65,21 @@ class GISPortfolio extends Component {
                         alt="Myface"
                         className="gis-photo"
                         />
+                        <h1 style={{color:'white',fontSize:'24px',width:'250px'}}>Assignment Eight EC</h1>
+                        <iframe width="600" height="600" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" title="Age Adjusted Influenza Death" src="//www.arcgis.com/apps/Embed/index.html?webmap=b3330cfb0f38447f8613273772327c37&extent=-76.2484,39.4257,-70.1894,41.3337&zoom=true&previewImage=false&scale=true&disable_scroll=true&theme=light"></iframe>
+
                         <h1 style={{color:'white',fontSize:'24px',width:'200px'}}>Assignment Nine</h1>
                         <img
                         src={Assignment9}
                         alt="Myface"
                         className="gis-photo"
                         />
-                <h1 style={{color:'white',fontSize:'24px',width:'200px'}}>Assignment Ten</h1>
-                <iframe src="https://www.google.com/maps/d/u/0/embed?mid=1c-ioej0EC9j5d8uVupYsC2Gvk0npy5Ux" width="600" height="600"></iframe>
-
+                        <h1 style={{color:'white',fontSize:'24px',width:'200px'}}>Assignment Ten</h1>
+                        <iframe src="https://www.google.com/maps/d/u/0/embed?mid=1c-ioej0EC9j5d8uVupYsC2Gvk0npy5Ux" width="600" height="600"></iframe>
                     </Cell>
             
                 </Grid>
-                <MapView/>
+
 
                 
     
