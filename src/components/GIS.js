@@ -71,10 +71,14 @@ class GISPortfolio extends Component {
                         alt="Myface"
                         className="gis-photo"
                         />
+                <h1 style={{color:'white',fontSize:'24px',width:'200px'}}>Assignment Ten</h1>
+                <iframe src="https://www.google.com/maps/d/u/0/embed?mid=1c-ioej0EC9j5d8uVupYsC2Gvk0npy5Ux" width="640" height="480"></iframe>
+
                     </Cell>
             
                 </Grid>
                 <MapView/>
+
                 
     
             </div>
