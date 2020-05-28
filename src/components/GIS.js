@@ -8,6 +8,7 @@ import Assignment5 from './Photos/GIS/Assignment5.png';
 import Assignment6EC from './Photos/GIS/Assignment6EC.png';
 import Assignment7 from './Photos/GIS/Assignment7.png';
 import Assignment8 from './Photos/GIS/Assignment8.png';
+import Assignment9 from './Photos/GIS/Assignment9.png';
 import MapView from './ArcGIS/Mapview'
 
 class GISPortfolio extends Component {
@@ -58,9 +59,15 @@ class GISPortfolio extends Component {
                         alt="Myface"
                         className="gis-photo"
                         />
-                        <h1 style={{color:'white',fontSize:'24px',width:'200px'}}>Assignment Eight</h1>
+                        <h1 style={{color:'black',fontSize:'24px',width:'200px'}}>Assignment Eight</h1>
                         <img
                         src={Assignment8}
+                        alt="Myface"
+                        className="gis-photo"
+                        />
+                        <h1 style={{color:'black',fontSize:'24px',width:'200px'}}>Assignment Nine</h1>
+                        <img
+                        src={Assignment9}
                         alt="Myface"
                         className="gis-photo"
                         />
