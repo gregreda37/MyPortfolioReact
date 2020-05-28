@@ -59,13 +59,13 @@ class GISPortfolio extends Component {
                         alt="Myface"
                         className="gis-photo"
                         />
-                        <h1 style={{color:'black',fontSize:'24px',width:'200px'}}>Assignment Eight</h1>
+                        <h1 style={{color:'white',fontSize:'24px',width:'200px'}}>Assignment Eight</h1>
                         <img
                         src={Assignment8}
                         alt="Myface"
                         className="gis-photo"
                         />
-                        <h1 style={{color:'black',fontSize:'24px',width:'200px'}}>Assignment Nine</h1>
+                        <h1 style={{color:'white',fontSize:'24px',width:'200px'}}>Assignment Nine</h1>
                         <img
                         src={Assignment9}
                         alt="Myface"
