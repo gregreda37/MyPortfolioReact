@@ -87,14 +87,6 @@ class Resume extends Component {
                         jobDescription="Project Management, Strategic Planning, Management, requirements gathering, testing, documentation, translating business 
                         requirements to technical requirements, Agile, project scheduling, risk mitigation, cost estimation "
                         />
-
-                        
-                        
-                        
-
-
-
-                        
                     </Cell>
                 </Grid>
             </div>

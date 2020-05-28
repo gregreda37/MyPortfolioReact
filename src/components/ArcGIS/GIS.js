@@ -1,15 +1,14 @@
 import React, {Component} from 'react';
 import {Grid, Cell} from 'react-mdl';
-import Assignment1 from './Photos/GIS/Assignment1.png';
-import Assignment2 from './Photos/GIS/Assignment2.png';
-import Assignment3 from './Photos/GIS/Assignment3.png';
-import Assignment4 from './Photos/GIS/Assignment4.png';
-import Assignment5 from './Photos/GIS/Assignment5.png';
-import Assignment6EC from './Photos/GIS/Assignment6EC.png';
-import Assignment7 from './Photos/GIS/Assignment7.png';
-import Assignment8 from './Photos/GIS/Assignment8.png';
-import Assignment9 from './Photos/GIS/Assignment9.png';
-import MapView from './ArcGIS/Mapview'
+import Assignment1 from './GISPhotos/Assignment1.png';
+import Assignment2 from './GISPhotos/Assignment2.png';
+import Assignment3 from './GISPhotos/Assignment3.png';
+import Assignment4 from './GISPhotos/Assignment4.png';
+import Assignment5 from './GISPhotos/Assignment5.png';
+import Assignment6EC from './GISPhotos/Assignment6EC.png';
+import Assignment7 from './GISPhotos/Assignment7.png';
+import Assignment8 from './GISPhotos/Assignment8.png';
+import Assignment9 from './GISPhotos/Assignment9.png'; 
 
 class GISPortfolio extends Component {
     render(){

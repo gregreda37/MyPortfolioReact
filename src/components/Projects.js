@@ -12,7 +12,7 @@ import staircase from './Photos/staircase.jpg'
 import garden from './Photos/garden.jpg'
 import reactLogo from './Photos/reactLogo.png'
 import JoinScreen from './Photos/JoinScreen.jpg'
-import Assignment8 from './Photos/GIS/Assingment8_NoLedger.png';
+import Assignment8 from './ArcGIS/GISPhotos/Assingment8_NoLedger.png';
 import {Link} from 'react-router-dom';
 
 class Projects extends Component {
