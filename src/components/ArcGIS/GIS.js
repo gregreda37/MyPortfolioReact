@@ -10,6 +10,8 @@ import Assignment7 from './GISPhotos/Assignment7.png';
 import Assignment8 from './GISPhotos/Assignment8.png';
 import Assignment9 from './GISPhotos/Assignment9.png'; 
 
+
+
 class GISPortfolio extends Component {
     render(){
         return(
@@ -76,7 +78,7 @@ class GISPortfolio extends Component {
                         <h1 style={{color:'white',fontSize:'24px',width:'200px'}}>Assignment Ten</h1>
                         <iframe src="https://www.google.com/maps/d/u/0/embed?mid=1c-ioej0EC9j5d8uVupYsC2Gvk0npy5Ux" width="600" height="600"></iframe>
                         <h1 style={{color:'white',fontSize:'24px',width:'200px'}}>Assignment Twelve</h1>
-                        <iframe width="600" height="600"  frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="http://www.arcgis.com/apps/MapSeries/index.html?appid=bd2b35a934f64449947b6cc093e12f49"></iframe>                    
+                        <iframe width="600px" height="600px" src="http://www.arcgis.com/apps/MapSeries/index.html?appid=bd2b35a934f64449947b6cc093e12f49" frameborder="0" scrolling="no"></iframe>                   
                         <h1 style={{color:'white',fontSize:'24px',width:'200px'}}>Midterm Project</h1>
                         <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSM2kU-7NdswHTurfhzdMqLree_3olcEfHkvzl5o-KH0TBLky18UoYHPI-LUfcedw/embed?start=false&loop=false&delayms=3000" frameborder="0" width="600" height="600" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
                     </Cell>
