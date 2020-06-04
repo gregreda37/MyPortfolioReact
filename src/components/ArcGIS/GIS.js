@@ -9,6 +9,7 @@ import Assignment6EC from './GISPhotos/Assignment6EC.png';
 import Assignment7 from './GISPhotos/Assignment7.png';
 import Assignment8 from './GISPhotos/Assignment8.png';
 import Assignment9 from './GISPhotos/Assignment9.png'; 
+import Assignment13 from './GISPhotos/Assignment13.png'; 
 
 
 
@@ -69,7 +70,7 @@ class GISPortfolio extends Component {
                         <h1 style={{color:'white',fontSize:'24px',width:'250px'}}>Assignment Eight EC</h1>
                         <iframe width="600" height="600" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" title="Age Adjusted Influenza Death" src="//www.arcgis.com/apps/Embed/index.html?webmap=b3330cfb0f38447f8613273772327c37&extent=-76.2484,39.4257,-70.1894,41.3337&zoom=true&previewImage=false&scale=true&disable_scroll=true&theme=light"></iframe>
 
-                        <h1 style={{color:'white',fontSize:'24px',width:'200px'}}>Assignment Nine</h1>
+                        <h1 style={{color:'white',fontSize:'24px',width:'220px'}}>Assignment Nine</h1>
                         <img
                         src={Assignment9}
                         alt="Myface"
@@ -81,6 +82,12 @@ class GISPortfolio extends Component {
                         <iframe width="600px" height="600px" src="http://www.arcgis.com/apps/MapSeries/index.html?appid=bd2b35a934f64449947b6cc093e12f49" frameborder="0" scrolling="no"></iframe>                   
                         <h1 style={{color:'white',fontSize:'24px',width:'200px'}}>Midterm Project</h1>
                         <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSM2kU-7NdswHTurfhzdMqLree_3olcEfHkvzl5o-KH0TBLky18UoYHPI-LUfcedw/embed?start=false&loop=false&delayms=3000" frameborder="0" width="600" height="600" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+                        <h1 style={{color:'white',fontSize:'20px',width:'200px'}}>Assignment Thirteen</h1>
+                        <img
+                        src={Assignment13}
+                        alt="Myface"
+                        className="gis-photo"
+                        />
                     </Cell>
             
                 </Grid>
