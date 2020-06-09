@@ -88,6 +88,8 @@ class GISPortfolio extends Component {
                         alt="Myface"
                         className="gis-photo"
                         />
+                        <h1 style={{color:'white',fontSize:'20px',width:'200px'}}>Assignment Fifteen</h1>
+                        <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQrST1s4bpBkwvIKg3Q4gbg785XYQncpKLUjo1Ji1zDoRBwl6wL9pPPhDH1XiSajQ/embed?start=false&loop=false&delayms=3000" frameborder="0" width="600" height="600" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
                     </Cell>
             
                 </Grid>
