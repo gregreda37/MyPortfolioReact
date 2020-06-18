@@ -18,6 +18,7 @@ class GISPortfolio extends Component {
             <div style ={{width: '100%', margin: 'auto'}}>
                 <Grid className = "project-background-gradient">
                     <Cell col={1}>
+                        <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vTrEU8eO7ouLaj9jzAzd8N5_vIsI4Fvan36zM0oTxz6hszqyXt-KAesbY_TK93qhQ/embed?start=false&loop=false&delayms=3000" frameborder="0" width="600" height="600" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
                         <h1 style={{color:'white',fontSize:'24px',width:'400px'}}>Finding and Displaying Spatial Data File</h1>
                         <img
                         src={Assignment1}
@@ -96,6 +97,7 @@ class GISPortfolio extends Component {
                         <iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRG39cz-DDJdrPobAmKGxcHigADcjYm6e5AFW9TPepJaSUgZ3pEdaK95qxRKXs3_w/pubhtml?widget=true&amp;headers=false" frameborder="0" width="600" height="600" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
                         <h1 style={{color:'white',fontSize:'20px',width:'400px'}}>Spatial Statistics - Spatial Regression Analysis File</h1>
                         <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQ40PT-K3qXgHkRc1g0EpRJeorhvjeUxzMH-08tc_2vAokwin1rfKEvMVdRLLTTlw/embed?start=false&loop=false&delayms=3000" frameborder="0" width="600" height="600" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+                        <h1 style={{color:'white',fontSize:'20px',width:'400px'}}>MetaData Googlemap Metadata https://drive.google.com/drive/folders/1I4DzydIy6nWDQFD4_gnsDtUK0CxQIamL?usp=sharing</h1>
                     </Cell>
             
                 </Grid>
