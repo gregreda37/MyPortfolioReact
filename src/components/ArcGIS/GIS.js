@@ -19,7 +19,7 @@ class GISPortfolio extends Component {
                 <Grid className = "project-background-gradient">
                     <Cell col={1}>
                         <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vTrEU8eO7ouLaj9jzAzd8N5_vIsI4Fvan36zM0oTxz6hszqyXt-KAesbY_TK93qhQ/embed?start=false&loop=false&delayms=3000" frameborder="0" width="600" height="600" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
-                        <h1 style={{color:'white',fontSize:'24px',width:'400px'}}>Finding and Displaying Spatial Data File</h1>
+                        <h1 style={{color:'white',fontSize:'24px',width:'400px'}}>Findin and Displaying Spatial Data File</h1>
                         <img
                         src={Assignment1}
                         alt="Myface"
