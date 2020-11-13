@@ -13,20 +13,23 @@ class Election extends Component {
         return (
             <>
               <TableauReport
-                url="https://prod-useast-b.online.tableau.com/t/myportfoliosite/views/FinalExamDATA/Sheet3?:showAppBanner=false&:display_count=n&:showVizHome=n&:origin=viz_share_link"
+                url="https://prod-useast-b.online.tableau.com/t/myportfoliosite/views/AgeTreeMapFinal/Sheet1?:showAppBanner=false&:display_count=n&:showVizHome=n&:origin=viz_share_link"
             />
-                          <TableauReport
+              <TableauReport
                 url="https://prod-useast-b.online.tableau.com/t/myportfoliosite/views/FinalExamDATA/Sheet1?:showAppBanner=false&:display_count=n&:showVizHome=n&:origin=viz_share_link"
             />
-                          <TableauReport
-                url="https://prod-useast-b.online.tableau.com/t/myportfoliosite/views/FinalExamDATABubbleMap/Sheet2?:showAppBanner=false&:display_count=n&:showVizHome=n&:origin=viz_share_link"
+              <TableauReport
+                url="https://prod-useast-b.online.tableau.com/t/myportfoliosite/views/FinalExamDATADotChart/Sheet2?:showAppBanner=false&:display_count=n&:showVizHome=n&:origin=viz_share_link"
             />
+              <TableauReport
+                url="https://prod-useast-b.online.tableau.com/t/myportfoliosite/views/FinalExamDATADotChart/Sheet3?:showAppBanner=false&:display_count=n&:showVizHome=n&:origin=viz_share_link"
+            />
+
+
                           <TableauReport
                 url="https://prod-useast-b.online.tableau.com/t/myportfoliosite/views/FinalExamDATABubbleMap/Sheet4?:showAppBanner=false&:display_count=n&:showVizHome=n&:origin=viz_share_link"
             />
-                          <TableauReport
-                url="https://prod-useast-b.online.tableau.com/t/myportfoliosite/views/AgeTreeMapFinal/Sheet1?:showAppBanner=false&:display_count=n&:showVizHome=n&:origin=viz_share_link"
-            />
+
             </>
 
         )
