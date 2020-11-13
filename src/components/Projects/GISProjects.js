@@ -46,7 +46,7 @@ class GISProjects extends Component {
                         
                             <div className= "button-color">
                             <i className="fa fa-tree"  aria-hidden="true"/>
-                            <a href="https://gregreda1.com/#/GIS">Analysis</a>
+                            <a href="https://gregreda1.com/#/electionResults">Analysis</a>
                             
                             </div>
                         </Button>
