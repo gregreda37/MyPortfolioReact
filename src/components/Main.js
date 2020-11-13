@@ -6,6 +6,7 @@ import Resume from './Resume';
 import GISPortfolio from './ArcGIS/GIS'
 
 import {Switch,Route} from 'react-router-dom';
+import Election from './ElectionPage/election';
 
 const Main = () => (
     <Switch>
@@ -14,6 +15,7 @@ const Main = () => (
         <Route path = "/contact" component ={Contact} />
         <Route path = "/resume" component ={Resume} />
         <Route path = "/GIS" component = {GISPortfolio} />
+        <Route path = "/electionResults" component= {Election}/>
     </Switch>
 
 )
